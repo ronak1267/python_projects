@@ -1,0 +1,6 @@
+
+ Customer name : krishna
+
+ Customer age : 22
+
+ customer gender : female
