@@ -26,4 +26,4 @@ while(True):
     myfile.write('\r\n Customer name : ' + uname + '\r\n')
     myfile.write('\r\n Customer age : ' + uage + '\r\n')
     myfile.write('\r\n customer gender : ' + ugender + '\r\n')
-    print('data saved to file please type q to exit the program.')
+    print('data saved to the file please type q to exit the program in place of name.')
